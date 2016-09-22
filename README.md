@@ -5,6 +5,8 @@
 
 # Elected - A ruby distributed leader election through Redis locks. 
 
+[![Join the chat at https://gitter.im/simple-finance/elected](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/simple-finance/elected?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Elect a leader out of many processes and run code only in one of your servers at a time.
 >
 > This library depends heavily on the [redlock](https://github.com/leandromoreira/redlock-rb) ruby gem to obtain distributed locks through Redis.
